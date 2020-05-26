@@ -1,0 +1,12 @@
+@tailwind base;
+
+@tailwind components;
+.btn {
+@apply inline-block px-8 border 
+}
+.btn:hover {
+    @apply text-blue-300
+}
+
+
+@tailwind utilities;
