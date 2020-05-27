@@ -2,6 +2,10 @@ import React from 'react'
 import Header from '../components/Header'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
+import '@fortawesome/fontawesome-free/js/fontawesome';
+import '@fortawesome/fontawesome-free/js/solid';
+import '@fortawesome/fontawesome-free/js/regular';
+import '@fortawesome/fontawesome-free/js/brands';
 export default function Home() {
     return(
         <div>
